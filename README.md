@@ -13,7 +13,7 @@
 
 - 📫 ¿Cómo ponerse en contacto conmigo? **mateo-congo_11@outlook.com**
 
-<h3 align="left">Contactame conmigo:</h3>
+<h3 align="left">Contáctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sebastian-congo-b65a0a27b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian congo" height="30" width="40" /></a>
 <a href="https://discord.gg/einarr07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="einarr07" height="30" width="40" /></a>
