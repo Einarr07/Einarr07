@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋🏽 soy Mateo Congo</h1>
-<h3 align="center">Actualmente estudiante de desarrollo de software en la Escuela Politécnica Nacional</h3>
+<h3 align="center">Soy tecnólogo en desarrollo de software graduado de la Escuela Politécnica Nacional</h3>
 
 - 🔭 Actualmente estoy trabajando en [Renta de vehículos](https://github.com/Einarr07/Renta_de_vehiculos-FRONTEND.git)
 
