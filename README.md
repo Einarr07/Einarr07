@@ -11,21 +11,17 @@
 
   <hr>
 
-  <h3>Technologies</h3>
-  <h4>Languages</h4>
-  <ul>
-    <li>Python</li> <img src="https://prepinstadotcom.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/07/python-removebg-preview.webp" alt="python" width="50" height="50">
-    <li>JavaScript</li> <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="javascript" width="50" height="50">
-    <li>HTML5</li> <img src="https://serprogramador.com.ar/wp-content/uploads/2018/09/Html5_diseno_web-1.png" alt="html" width="50" height="50">
-    <li>CSS</li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" height="50">
-  </ul>
+### Technologies
+#### Languages
+| Python | JavaScript | HTML5 | CSS |
+|--------|------------|-------|-----|
+| <img src="https://prepinstadotcom.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/07/python-removebg-preview.webp" alt="python" width="50" height="50"/> | <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="javascript" width="50" height="50"/> | <img src="https://serprogramador.com.ar/wp-content/uploads/2018/09/Html5_diseno_web-1.png" alt="html" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="css" width="50" height="60"/> |
 
-  <h4>Frameworks/Libraries</h4>
-  <ul>
-    <li>FastAPI</li> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastAPI" width="50" height="50">
-    <li>React</li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="50" height="50">
-    <li>Node.js</li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node.js" width="60" height="40">
-  </ul>
+#### Frameworks/Libraries
+| FastAPI | React | Node.js |
+|---------|-------|---------|
+| <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastAPI" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node.js" width="60" height="40"/> |
+
 
   <hr>
 
