@@ -40,9 +40,6 @@
 ### Contact me:
 
 - 📫 Personal Email: **mateo-sebas_11@outlook.com**
-- 📫 LinkedIn Profile:
-  
-<a href="https://www.linkedin.com/in/mateo-congo-b65a0a27b/" target="_blank"><img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" alt="LinkedIn" width="200" height="125"></a>
 
 
 ### You can find some recently created projects at the bottom
