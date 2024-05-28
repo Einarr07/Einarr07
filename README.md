@@ -1,23 +1,39 @@
-<h1 align="center">Hola 👋🏽 soy Mateo Congo</h1>
-<h3 align="center">Soy tecnólogo en desarrollo de software graduado de la Escuela Politécnica Nacional</h3>
+<h1 align="center">Hello, I'm Mateo Congo 👋🏽</h1>
+  <h3 align="center">Passionate about learning and growing in software development. I like to work on both the frontend and the backend.</h3>
 
-- 🔭 Actualmente estoy trabajando en [Renta de vehículos](https://github.com/Einarr07/Renta_de_vehiculos-FRONTEND.git)
+  <hr>
 
-- 🌱 Actualmente estoy aprendiendo **Tecnologías de la seguridad y aplicaciones móviles con Angular, Ionic**
+  <h3>About me:</h3>
+  <ul>
+    <li>Junior Software Developer | Full Stack</li>
+    <li>Studies: Technology in Developing Software at Escuela Politécnica Nacional</li>
+  </ul>
 
-- 👯 Busco colaborar en **Proyectos relacionados al frontend**
+  <hr>
 
-- 👨‍💻 Todos mis proyectos [https://github.com/Einarr07](https://github.com/Einarr07)
+  <h3>Technologies</h3>
+  <h4>Languages</h4>
+  <ul>
+    <li>Python</li> <img src="https://prepinstadotcom.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/07/python-removebg-preview.webp" alt="python" width="50" height="50">
+    <li>JavaScript</li> <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="javascript" width="50" height="50">
+    <li>HTML5</li> <img src="https://serprogramador.com.ar/wp-content/uploads/2018/09/Html5_diseno_web-1.png" alt="html" width="50" height="50">
+    <li>CSS</li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" height="50">
+  </ul>
 
-- 💬 Pregúntame sobre **react**
+  <h4>Frameworks/Libraries</h4>
+  <ul>
+    <li>FastAPI</li> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastAPI" width="50" height="50">
+    <li>React</li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="50" height="50">
+    <li>Node.js</li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node.js" width="60" height="40">
+  </ul>
 
-- 📫 ¿Cómo ponerse en contacto conmigo? **mateo-congo_11@outlook.com**
+  <hr>
 
-<h3 align="left">Contáctate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sebastian-congo-b65a0a27b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian congo" height="30" width="40" /></a>
-<a href="https://discord.gg/einarr07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="einarr07" height="30" width="40" /></a>
-</p>
+  <h3>Contact me:</h3>
+  <ul>
+    <li>📫 Personal Email: <strong>mateo-sebas_11@outlook.com</strong></li>
+    <li>📫 LinkedIn Profile: <a href="https://www.linkedin.com/in/mateo-congo-b65a0a27b/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian congo" height="15" width="20" /></a></li>
+  </ul>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+  <h3>You can find some recently created projects at the bottom</h3>
+  ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
