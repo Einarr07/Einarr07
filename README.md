@@ -21,18 +21,18 @@
 #### Frameworks/Libraries
 |Spring boot| FastAPI | React |
 |-----------|---------|-------|
-|<img src="https://miro.medium.com/v2/resize:fit:585/0*R3Q_XDNGBdBTrrT8.png" alt="spring-boot" width="50" height="50"/>| <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastAPI" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="50" height="50"/> | 
+|<img src="https://miro.medium.com/v2/resize:fit:585/0*R3Q_XDNGBdBTrrT8.png" alt="spring-boot" width="120" height="50"/>| <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastAPI" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="50" height="50"/> | 
 
 #### Data Manipulation
 | MySQL | Postgresql |
 |-------|------------|
-| <img src="https://zonatecnologicaecc.com/wp-content/uploads/2022/11/MySQL-logo.png" alt="MySQL" width="100" height="50"/> | <img src="https://miro.medium.com/v2/resize:fit:610/1*lZrXmWJRDLqIImJThs5Lrw.png" alt="PostgresSQL" width="50" height="50"/>
+| <img src="https://zonatecnologicaecc.com/wp-content/uploads/2022/11/MySQL-logo.png" alt="MySQL" width="100" height="50"/> | <img src="https://miro.medium.com/v2/resize:fit:610/1*lZrXmWJRDLqIImJThs5Lrw.png" alt="PostgresSQL" width="120" height="50"/>
 
 
 #### Development Tools
-| Git | Docker | Postman | VirtualBox | Swagger | Visual Studio Code | PyCharm |
-|-----|--------|---------|------------|---------|--------------------|---------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" width="100" height="100"/> | <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="docker" width="125" height="100"/> | <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="100" height="100"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtualbox" width="100" height="100"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsFc9KATnHDRawBTjZiRZNJTGjQ-fBRP7hw&s" alt="swagger" width="100" height="100"/> | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="visual studio code" width="100" height="100"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/250px-PyCharm_Icon.svg.png" alt="PyCharm" width="100" height="100"/> |
+| PyCharm | Intellij IDEA | WebStorm| Git | Docker | Postman | Swagger | Visual Studio Code |
+|---------|---------------|---------|-----|--------|---------|---------|--------------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/250px-PyCharm_Icon.svg.png" alt="PyCharm" width="100" height="100"/> |<img src="https://www.helenjoscott.com/wp-content/uploads/2020/09/1200px-IntelliJ_IDEA_Logo.png" alt="Intellij IDEA" width="100" height="100" />| <img src="https://miro.medium.com/v2/resize:fit:1400/1*rCK7fhfY9jb-osA77oaOAQ.png" alt="webStorm" width="100" height="100" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" width="100" height="100"/> | <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="docker" width="125" height="100"/> | <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="100" height="100"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsFc9KATnHDRawBTjZiRZNJTGjQ-fBRP7hw&s" alt="swagger" width="100" height="100"/> | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="visual studio code" width="100" height="100"/> | 
 
 
 ---
