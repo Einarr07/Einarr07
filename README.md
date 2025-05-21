@@ -14,19 +14,19 @@
 ### Technologies
 
 #### Languages
-| Python |Java| JavaScript | HTML5 | CSS |
-|--------|----|------------|-------|-----|
-| <img src="https://prepinstadotcom.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/07/python-removebg-preview.webp" alt="python" width="50" height="50"/> |<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="50" height="50"/>| <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="javascript" width="50" height="50"/> | <img src="https://serprogramador.com.ar/wp-content/uploads/2018/09/Html5_diseno_web-1.png" alt="html" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="css" width="50" height="60"/> |
+| Python |Java| JavaScript |
+|--------|----|------------|
+| <img src="https://prepinstadotcom.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/07/python-removebg-preview.webp" alt="python" width="50" height="50"/> |<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="50" height="50"/>| <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="javascript" width="50" height="50"/> |
 
 #### Frameworks/Libraries
-| FastAPI | React | Node.js |
-|---------|-------|---------|
-| <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastAPI" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node.js" width="60" height="40"/> |
+|Spring boot| FastAPI | React |
+|-----------|---------|-------|
+|<img src="https://image.pngaaa.com/546/2459546-middle.png"/>| <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastAPI" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="50" height="50"/> | 
 
 #### Data Manipulation
-| Jupyter | SQLite | MySQL | MongoDB |
-|---------|--------|-------|-------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="Jupyter" width="50" height="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" alt="SQLLite" width="100" height="50"/> | <img src="https://zonatecnologicaecc.com/wp-content/uploads/2022/11/MySQL-logo.png" alt="MySQL" width="100" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MySQL" width="100" height="50"/>|
+| MySQL | Postgresql |
+|-------|------------|
+| <img src="https://zonatecnologicaecc.com/wp-content/uploads/2022/11/MySQL-logo.png" alt="MySQL" width="100" height="50"/> | <img src="https://miro.medium.com/v2/resize:fit:610/1*lZrXmWJRDLqIImJThs5Lrw.png" />
 
 
 #### Development Tools
