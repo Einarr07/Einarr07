@@ -21,12 +21,12 @@
 #### Frameworks/Libraries
 |Spring boot| FastAPI | React |
 |-----------|---------|-------|
-|<img src="https://image.pngaaa.com/546/2459546-middle.png"/>| <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastAPI" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="50" height="50"/> | 
+|<img src="https://miro.medium.com/v2/resize:fit:585/0*R3Q_XDNGBdBTrrT8.png" alt="spring-boot" width="50" height="50"/>| <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastAPI" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="50" height="50"/> | 
 
 #### Data Manipulation
 | MySQL | Postgresql |
 |-------|------------|
-| <img src="https://zonatecnologicaecc.com/wp-content/uploads/2022/11/MySQL-logo.png" alt="MySQL" width="100" height="50"/> | <img src="https://miro.medium.com/v2/resize:fit:610/1*lZrXmWJRDLqIImJThs5Lrw.png" />
+| <img src="https://zonatecnologicaecc.com/wp-content/uploads/2022/11/MySQL-logo.png" alt="MySQL" width="100" height="50"/> | <img src="https://miro.medium.com/v2/resize:fit:610/1*lZrXmWJRDLqIImJThs5Lrw.png" alt="PostgresSQL" width="50" height="50"/>
 
 
 #### Development Tools
