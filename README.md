@@ -1,5 +1,6 @@
-
-# 👋🏽 Hello, I'm Mateo Congo  
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mateo%20Congo&fontSize=70&animation=fadeIn" />
+</div>
 
 ### Passionate about learning and growing in software development. I like to work on both the frontend and the backend.
 
